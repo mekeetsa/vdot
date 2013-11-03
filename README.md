@@ -1,7 +1,8 @@
-# VO2 expenditure equations based on the Daniel-Gilbert formula
+# vdot
 
-VO2max equations based on:
+VO2 expenditure equations based on the Daniels-Gilbert formula
 
-* Daniels, Jack, and Jimmy Gilbert.  Oxygen Power: Performance Tables for Distance Runners. Jack Daniels, Jimmy Gilbert c1979
-* Daniels, Jack. Daniels' Running Formula (2nd Edition). Champaign, IL : Human Kinetics, c2005.
+* Daniels, Jack, and Jimmy Gilbert. *Oxygen Power: Performance Tables for Distance Runners*. 1979
+
+* Daniels, Jack. *Daniels' Running Formula*, 2nd Edition. Human Kinetics. 2005.
 
